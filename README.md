@@ -6,6 +6,7 @@ The script written in this project computes key aspects of elections and also ou
 
 ## Election-Audit Results
 
-
+*
+*
 
 ## Election-Audit Summary
