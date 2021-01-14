@@ -38,7 +38,6 @@ Winning Percentage: 73.8%.
 
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 This script can me modified in multiple ways in order to use it for different elections. For example the first and most import change can be the ammendment of the file path. Instead of encoding this particular csv file, any other file can be chosen in order to be analyzed. Secondly if the election commission wants to print out the loser instead of the winner, the code can be slightly modified. It can be done by adding an elif statement as shown below:
 
